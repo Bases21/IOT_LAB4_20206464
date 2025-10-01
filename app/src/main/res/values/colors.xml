@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_primary">#FF2196F3</color>
+    <color name="weather_primary">#FF1976D2</color>
+    <color name="weather_secondary">#FF42A5F5</color>
+    <color name="card_background">#FFFAFAFA</color>
+    <color name="text_primary">#FF212121</color>
+        <color name="text_secondary">#FF757575</color>
+    
+    <color name="background_gradient">#FFF3E5F5</color>
+    <color name="accent_color">#FF9C27B0</color>
+    <color name="success_color">#FF4CAF50</color>
+    <color name="warning_color">#FFFF9800</color>
+    <color name="card_shadow">#1A000000</color>
+</resources>
